@@ -28,7 +28,7 @@ Auxiliar o Sr. João, proprietário de quatro lojas da Alura Store, a decidir qu
 Analisamos o faturamento total de cada loja, identificando qual loja apresentou maior e menor desempenho financeiro.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/agenciadigitalslz/ChallengeAluraStore/refs/heads/main/graficos/G1.png" width="600">
+  <img src="" width="600">
 </p>
 
 ---
@@ -46,7 +46,7 @@ Identificação das categorias de produtos mais vendidas em cada loja, com visua
 Cálculo da média de avaliação dos clientes para cada loja, destacando a melhor e a pior avaliação.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/agenciadigitalslz/ChallengeAluraStore/refs/heads/main/graficos/G3.png" width="600">
+  <img src="https://github.com/lucaspoterucha/challenge-dados/blob/main/Gr%C3%A1ficos/avaliacao-media.png" width="600">
 </p>
 
 ---
