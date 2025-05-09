@@ -80,8 +80,8 @@ Com base nos dados analisados, recomenda-se a venda da **Loja 4**, pois:
 ---
 
 ## 📂 Acesso ao Projeto
-- 📑 Notebook completo: [AluraStoreBr - André Lopes.ipynb](https://github.com/agenciadigitalslz/ChallengeAluraStore/blob/main/AluraStoreBr%20-%20Andr%C3%A9%20Lopes.ipynb)
-- 📂 Pasta com Gráficos: [graficos/]()
+- 📑 Notebook completo: [AluraStoreBr - Lucas Poterucha.ipynb](https://github.com/lucaspoterucha/challenge-dados/blob/main/AluraStoreBr_Challenge%20(2).ipynb)
+- 📂 Pasta com Gráficos: [graficos/](https://github.com/lucaspoterucha/challenge-dados/tree/main/Gr%C3%A1ficos)
 
 
 
