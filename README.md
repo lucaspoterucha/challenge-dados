@@ -28,7 +28,7 @@ Auxiliar o Sr. João, proprietário de quatro lojas da Alura Store, a decidir qu
 Analisamos o faturamento total de cada loja, identificando qual loja apresentou maior e menor desempenho financeiro.
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/lucaspoterucha/challenge-dados/blob/main/Gr%C3%A1ficos/faturamento.png" width="600">
 </p>
 
 ---
@@ -55,7 +55,7 @@ Cálculo da média de avaliação dos clientes para cada loja, destacando a melh
 Comparação dos produtos com maior e menor volume de vendas em cada loja.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/agenciadigitalslz/ChallengeAluraStore/refs/heads/main/graficos/G4.1.png" width="600">
+  <img src="https://raw.githubusercontent.com/agenciadigitalslz/ChallengeAluraStore/refs/heads/main/graficos/G4.1.png">
 </p>
 
 ---
@@ -64,7 +64,7 @@ Comparação dos produtos com maior e menor volume de vendas em cada loja.
 Comparação do frete médio cobrado em cada loja, destacando a loja com menor e maior frete.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/agenciadigitalslz/ChallengeAluraStore/refs/heads/main/graficos/G5.png" width="600">
+  <img src="https://github.com/lucaspoterucha/challenge-dados/blob/main/Gr%C3%A1ficos/frete-medio.png" width="600">
 </p>
 
 ---
